@@ -2,7 +2,7 @@
 [![rank](https://make.fun/badge/news-image-20261126/diablosan19/news-image-20261126b/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 [![reward](https://make.fun/badge/news-image-20261126/diablosan19/news-image-20261126b/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
-# Thursday 26 November 2026: 34 stories, 9 regions
+# Thursday 26 November 2026: 34 stories, 10 regions
 
 A one-page newspaper front page that sums up the world news of
 Thursday, 26 November 2026, in a single 1024x1024 image. Every story
@@ -23,13 +23,14 @@ the SpaceX Starmind approval, the postponed Macy's parade, the
 Netanyahu trial recommendation, the Phala Phala ruling, the Karachi
 building collapse, the Andy Taylor death announcement, the birthright
 citizenship ruling, the Mackenzie convictions, the Hasakah attack,
-and more.
+the US Section 301 tariffs on 14 economies, the 10% duty on Brazil
+aircraft, the Murmansk governor's pre-trial detention, and more.
 
 The main grid carries 33 further stories in three columns. Every
 story shows a field tag, a bold headline, a region dateline, a UTC
 time, and a sourcing label — OFFICIAL, CONFIRMED, or REPORTED — so
 no claim is presented as confirmed fact when it is only reported.
-A pin map marks the nine regions, a timeline strip runs the day's
+A pin map marks the ten regions, a timeline strip runs the day's
 first wires in UTC, and a markets strip at the foot carries Brent,
 WTI, the rupee, the Bank of Korea rate, and the GIFT Nifty
 indication. All artwork is drawn shapes; there is no photography.
@@ -40,7 +41,7 @@ indication. All artwork is drawn shapes; there is no photography.
 2. Blast rocks Sanaa; missiles to Riyadh stopped — Sanaa, REPORTED
 3. Brent tops $94 as Gulf attacks jolt oil — Gulf, CONFIRMED
 4. EU leaders open summit on €1.58trn budget — Brussels, CONFIRMED
-5. Murmansk governor held in graft detention — Murmansk, REPORTED
+5. Sinner ruled out of Australian Open 2027 — Melbourne, CONFIRMED
 6. Iraq court lets Baghdad send troops to Kurd border — Baghdad, OFFICIAL
 7. UK parks jets in hangars over drone threat — London, REPORTED
 8. Saudi man seized by suspected IS men in Niger — Niamey, REPORTED
@@ -49,8 +50,8 @@ indication. All artwork is drawn shapes; there is no photography.
 11. US Army blows up old lead-explosives store — Iowa, OFFICIAL
 12. US famine monitor to halt reports as cash runs out — Washington, REPORTED
 13. Zambia blocks march on term-limit push — Lusaka, REPORTED
-14. US unveils new tariffs on 14 trade partners — Washington, CONFIRMED
-15. US floats 10% duty on Brazil aircraft imports — Washington, REPORTED
+14. Asia shares rally as Wall Street steadies — Sydney, REPORTED
+15. LeBron posts first triple-double as a 76er — Philadelphia, CONFIRMED
 16. Taiwan sure of keeping 15% US tariff rate — Taipei, CONFIRMED
 17. Abrego Garcia lands in Spain after US deal — Madrid, CONFIRMED
 18. OPEC blames EU for COP31 collapse — Vienna, REPORTED
@@ -72,7 +73,7 @@ indication. All artwork is drawn shapes; there is no photography.
 34. Thousands strike across Greece over pay — Athens, REPORTED
 
 Regions: Korean Peninsula, Japan, Taiwan, South Asia, Middle East &
-Gulf, Europe, Africa, North America, South America. Fields:
+Gulf, Europe, Africa, North America, South America, Oceania. Fields:
 Conflict, Diplomacy, Trade, Central Banking, Markets, Energy,
 Technology, Law, Health, Sport, Migration, Climate, Education,
 Labour.
